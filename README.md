@@ -1,5 +1,5 @@
 # data-science-project-5
-Contents for project 5
+
 The aim of this project is to anticipate influencers in social networks by using data from Twitter with many features.
 I analyzed it by doing the following:
 Data processing
